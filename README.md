@@ -1,0 +1,2 @@
+# Algorithms_And_Data_Structures_in_Python
+Решения из курса Algorithms_And_Data_Structures_in_Python от GeekBrains
