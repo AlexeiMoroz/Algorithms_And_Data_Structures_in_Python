@@ -1,4 +1,4 @@
-#Bubble sort
+#Bubble sort and other sort algorithms
 
 import random
 
